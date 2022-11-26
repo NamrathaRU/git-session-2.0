@@ -8,4 +8,5 @@ git config --global user.email = "email"
 git log
 git branch
 git merge branchName
-
+git remote add origin "your url"
+git remote -v
