@@ -5,4 +5,7 @@ git commit -m "some msg" // to commit
 git commit =a // -a allowed automatic tracking of modified files
 git config --global user.name = "name"
 git config --global user.email = "email"
+git log
+git branch
+git merge branchName
 
