@@ -1,0 +1,8 @@
+git init // used to initialise repository
+git status // checking status
+git add  // used for adding files to tracking list
+git commit -m "some msg" // to commit
+git commit =a // -a allowed automatic tracking of modified files
+git config --global user.name = "name"
+git config --global user.email = "email"
+
